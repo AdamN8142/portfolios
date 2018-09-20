@@ -25,7 +25,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/number-guesser/adam-niedzwiecki.md)
 
-(We built a game where the user was to guess a number between 1-100. Each time the user submitted a guess, we would return a message telling the user to gueds higher or lower. If the number was guessed correctly, BOOM! They got it)
+We built a game where the user was to guess a number between 1-100. Each time the user submitted a guess, we would return a message telling the user to gueds higher or lower. If the number was guessed correctly, BOOM! They got it
 
 
 
@@ -35,7 +35,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/linked-list/paul-adam.md)
 
 
-(We built a program where users could bookmard their favorite webistes. )
+We built a program where users could bookmard their favorite webistes. 
 
 
 
@@ -45,7 +45,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 
 
 
-(Not a great overall first static comp, watch spacing and choose better colors that dont clash and have distinct break points)
+Not a great overall first static comp, watch spacing and choose better colors that dont clash and have distinct break points
 
 
  
@@ -56,7 +56,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 
 
 
-(Much better than last time! Good spacing, pay attention to fonts and colors)
+Much better than last time! Good spacing, pay attention to fonts and colors
 
 
 
@@ -65,7 +65,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 * [GitHub URL](https://github.com/AdamN8142/an-static-comp-3)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
-(Incomplete - good static view before the squish)
+Incomplete - good static view before the squish
 
 
 
@@ -81,7 +81,7 @@ I felt like i did well on all of my individual projects. Each time i was able to
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 * [Evaluation Comments ](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/idea-box/paul-adam.md)
 
-(Using local storage, we saved data that our user inputs)
+Using local storage, we saved data that our user inputs
 
 
 #### (2-DO-BOX)
@@ -89,15 +89,15 @@ I felt like i did well on all of my individual projects. Each time i was able to
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 * [Evaluation Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1808/mod-1/to-do-box/adam.md)
 
-(Re-factoring a students project following a set ot strict refactoring guidelines)
+Re-factoring a students project following a set ot strict refactoring guidelines
 
 
 ## D: Community Participation
-(It took a little while to get into the swing of things but after a few weeks i completely bought in to what Turing was selling. The community aspect of Turing plays a big part in ones success. Meeting students in upper mods and expressing our thoughts and feelings during PD is a great break from the heavy Turing pace.)
+It took a little while to get into the swing of things but after a few weeks i completely bought in to what Turing was selling. The community aspect of Turing plays a big part in ones success. Meeting students in upper mods and expressing our thoughts and feelings during PD is a great break from the heavy Turing pace.
 
 
 ### Playing a Part
-(One area i did not lack in this Mod was forming friendships with my the students in my cohort. I can honestly say i made a point to reach out to everyone in our mod as a potential resource, but more imortantly, a friend. The hardest part about repeating will be leaving my new friends.)
+One area i did not lack in this Mod was forming friendships with my the students in my cohort. I can honestly say i made a point to reach out to everyone in our mod as a potential resource, but more imortantly, a friend. The hardest part about repeating will be leaving my new friends.
 
 ------------------
 
